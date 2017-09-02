@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+svg {
+  background-color: black;
+}
+
+#loader-mount {
+  padding: 25%;
+  margin: auto;
+  display: block;
+}
